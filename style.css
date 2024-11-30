@@ -78,14 +78,14 @@
     margin: 15px 0;
     padding: 10px 15px;
     background-color: #444; /* Cor de fundo para os itens */
-    border: 2px solid #ff5f6d; /* Borda personalizada */
+    border: 2px solid #25f37b; /* Borda personalizada */
     border-radius: 5px; /* Bordas arredondadas */
     color: #fff;
     transition: all 0.3s ease; /* Transição suave para hover */
   }
   
   .curso ul li:hover {
-    background-color: #ff5f6d; /* Cor de fundo no hover */
+    background-color: #25f37b; /* Cor de fundo no hover */
     color: #fff; /* Cor do texto no hover */
     transform: translateX(10px); /* Efeito de movimento no hover */
   }
@@ -93,7 +93,7 @@
   
   /* Estiliza o botão dentro da seção do curso */
   .curso button {
-    background-color: #ff5f6d;  /* Cor de fundo do botão */
+    background-color: #25f37b;  /* Cor de fundo do botão */
     color: white;  /* Cor do texto do botão */
     border: none;  /* Remove a borda padrão */
     padding: 12px 25px;  /* Espaçamento interno */
